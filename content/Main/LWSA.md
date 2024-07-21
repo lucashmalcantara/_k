@@ -1,6 +1,7 @@
 ---
 title: LWSA
 draft: false
-tags: []
+tags:
+  - company
 ---
 **Official website:** [LWSA](https://lwsa.tech/)

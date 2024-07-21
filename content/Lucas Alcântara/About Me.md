@@ -2,7 +2,7 @@
 title: About Me
 draft: false
 tags:
-  - lucas-alcantara
+  - person
 ---
 - My name is Lucas Alcântara.
 - I'm from Brazil.

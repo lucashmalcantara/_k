@@ -1,6 +1,7 @@
 ---
 title: Wake Experience
 draft: false
-tags: []
+tags:
+  - company
 ---
 **Official website:** [Wake Experience](https://wake.tech/wake-experience/)

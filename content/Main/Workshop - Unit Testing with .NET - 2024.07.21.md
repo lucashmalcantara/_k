@@ -19,6 +19,4 @@ Todo...
 
 The [[Testing Pyramid]] is a metaphor for thinking about testing in software. [[Mike Cohn]] came up with this concept in his book [[Succeeding with Agile]]. It's a great visual representation that helps us think about different layers of testing. It also tells you how much testing to do on each layer.
 
-
-![[Test Pyramid.excalidraw|720]]
-
+![[Test Pyramid 20240720234920.png|Test Pyramid]]
