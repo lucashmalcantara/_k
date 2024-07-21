@@ -4,7 +4,6 @@ draft: false
 tags:
   - lucas-alcantara
 ---
- 
 - My name is Lucas Alcântara.
 - I'm from Brazil.
 - I have a Bachelor's degree in Information Systems (PUC Minas).

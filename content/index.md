@@ -1,6 +1,4 @@
 ---
 title: Welcome to Quartz
 ---
-
-This is a blank Quartz installation.
-See the [documentation](https://quartz.jzhao.xyz) for how to get started.
+Hi, I’m Lucas. Nice to meet you! Welcome to my [[Digital Gardening|digital garden]]! Please visit the [[About Me]] page to see more about me.
