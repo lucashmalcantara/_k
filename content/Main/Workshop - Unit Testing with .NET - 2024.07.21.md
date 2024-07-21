@@ -1,6 +1,6 @@
 ---
 title: Workshop - Unit Testing with .NET - 2024.07.21
-draft: true
+draft: false
 tags:
   - software-development
   - back-end
