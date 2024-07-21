@@ -16,7 +16,7 @@ const config: QuartzConfig = {
     },
     locale: "en-US",
     baseUrl: "lucashmalcantara.github.io/k",
-    ignorePatterns: ["private", "templates", ".obsidian"],
+    ignorePatterns: ["private", "templates", ".obsidian", "_*/"],
     defaultDateType: "created",
     theme: {
       fontOrigin: "googleFonts",
