@@ -86,9 +86,7 @@ There are various kinds of double that Gerard lists [[#9]]:
 
 At times, it can be difficult to define the limits of each type of Test Double. In his article on the subject [[#10]], Mark Seemann illustrates the extremes of test doubles through a spectrum, as shown in the image below.
 
-
-
-![[Pasted image 20240729222708.png]]
+![[Spectrum of Test Doubles.gif]]
 _Spectrum of Test Doubles_
 
 ### Dummy object
