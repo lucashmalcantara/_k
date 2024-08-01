@@ -278,7 +278,6 @@ T. Fernandez and D. Ackerson. “The Testing Pyramid: How to Structure Your Test
 
 G. Meszaros. “Test Double.” xunitpatterns.com. Accessed: Jul. 29, 2024. [Online.] Available: http://xunitpatterns.com/Test%20Double.html
 
-
 ### 9
 
 M. Fowler. “Test Double.” martinfowler.com. Accessed: Jul. 29, 2024. [Online.] Available: https://martinfowler.com/bliki/TestDouble.html
@@ -286,5 +285,4 @@ M. Fowler. “Test Double.” martinfowler.com. Accessed: Jul. 29, 2024. [Online
 ### 10
 
 M. Seemann. “Unit Testing: Exploring The Continuum Of Test Doubles.” microsoft.com. Accessed: Jul. 29, 2024. [Online.] Available: https://learn.microsoft.com/en-us/archive/msdn-magazine/2007/september/unit-testing-exploring-the-continuum-of-test-doubles
-
 
