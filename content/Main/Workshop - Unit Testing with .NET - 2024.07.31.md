@@ -1,5 +1,5 @@
 ---
-title: Workshop - Unit Testing with .NET - 2024.07.21
+title: Workshop - Unit Testing with .NET - 2024.07.31
 draft: false
 tags:
   - software-development
