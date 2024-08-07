@@ -1,5 +1,5 @@
 ---
-title: Workshop - Unit Testing with .NET - 2024.07.31
+title: Workshop - Unit Testing with .NET - 2024.08.07
 draft: false
 tags:
   - software-development
@@ -9,7 +9,14 @@ tags:
 ---
 ## Preface
 
-This is the script for the workshop I presented at [[Wake Experience]], a division of [[LWSA]] (formerly Locaweb), on July 31, 2024. At the time, I was working as a Software Developer Specialist at this company.
+This is the script for the workshop I presented at [[Wake Experience]], a division of [[LWSA]] (formerly Locaweb), on August 07, 2024. At the time, I was working as a Software Developer Specialist at this company.
+
+## Personal presentation
+
+- 10 months at Wake Experience.
+- Backend software developer in Squad SMB.
+- 6 years of experience.
+- I have worked at other major companies, including BTG Pactual and Localiza.
 
 ## Introduction
 
