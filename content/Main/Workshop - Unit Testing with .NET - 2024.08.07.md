@@ -248,7 +248,7 @@ There is a list of packages that can help us write tests in .NET. Below is a sel
 	- NuGet: [https://www.nuget.org/packages/RichardSzalay.MockHttp](https://www.nuget.org/packages/RichardSzalay.MockHttp)
 ## Example project
 
-Available on GitHub: [lucashmalcantara/2024-07-workshop-unit-testing-dotnet](https://github.com/lucashmalcantara/2024-07-workshop-unit-testing-dotnet)
+Available on GitHub: [lucashmalcantara/2024-08-workshop-unit-testing-dotnet](https://github.com/lucashmalcantara/2024-08-workshop-unit-testing-dotnet)
 
 ## References
 
