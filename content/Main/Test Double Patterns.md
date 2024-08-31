@@ -5,5 +5,4 @@ tags:
   - software-testing
   - software-development
 ---
- 
-**See more:** [Test Double at XUnitPatterns.com](http://xunitpatterns.com/Test%20Double.html)
+ **See more:** [Test Double at XUnitPatterns.com](http://xunitpatterns.com/Test%20Double.html)
